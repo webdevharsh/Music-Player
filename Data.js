@@ -2,20 +2,20 @@ let allmusic = [
 {
 name:'Believer', 
 artist:'Imagine Dragons',
-img:'Images/image1', 
-src:'Audio/music1'      
+img:'image1', 
+src:'music1'      
  }, 
 {
 name:'Alone', 
 artist:'Alan Walker',
-img:'Images/image2',
-src:'Audio/music2'
+img:'image2',
+src:'music2'
 },
 {
 name:'Legends never die', 
 artist:'Against the current',
-img:'Images/image3',
-src:'Audio/music3'
+img:'image3',
+src:'music3'
 },
 ]
 
